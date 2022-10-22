@@ -19,7 +19,7 @@ Instructions
 
 ### Entering required Data
 
-1.  Open the exe file once so that folder and required files are created
+1.  Open the exe file once so that folder and required files are created. Make sure to extract the rar file and navigate to that folder first.
   
 ![image](https://imgur.com/ajrVWND.jpeg)  
 5.  Open playlist folder and open playlist.txt file
