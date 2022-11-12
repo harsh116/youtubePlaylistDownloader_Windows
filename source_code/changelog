@@ -1,0 +1,15 @@
+v1
+1: Download upto first 100 videos of all playlist in playlist.txt in playlist folder
+2: Option to set quality for all videos of playlist
+
+v1.1
+Added option to download audio version of videos in mp3 format
+
+v1.2
+1: Videos will be downloaded one at a time so that download of single video is completed quickly and to avoid the load
+2: Videos which are already downloaded wont get downloaded again to save bandwidth.
+
+v2(Efficiency update)
+1: Now any number of videos of particular playlist can be downloaded
+2: Once current download completes then only other link will be fetched to reduce load on api
+3: Cache implementation. Once the data is fetched from api, its response will be stored as cache thus making it more faster to access the previous data.
